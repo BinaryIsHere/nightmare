@@ -5,6 +5,7 @@ Nightmare is a community-driven project designed to detect supported cheat scann
 At the moment, Nightmare supports:
 Echo
 Detect
+Napse (Credits: 1900x)
 
 Manual scan support is currently in development.
 
@@ -17,6 +18,9 @@ PM me if you'd like to help manually verify new updates.
 Contribute modifications, improvements, or new features.
 
 Community contributions are always welcome and will be greatly appreciated. Contributors will receive proper credit for their work.
+
+# Updates
+We will update asap as soon as a scanner gets a update.
 
 # How to Use
 Run nightmare.exe.
