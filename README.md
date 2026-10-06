@@ -32,4 +32,5 @@ The more scanners, updates, and contributions we receive, the better Nightmare c
 
 # Credits
 This project was made with ❤️ in Romania by the Binary Team.
+
 Special thanks to everyone who contributes scans, testing, ideas, improvements, and feedback. (Names will be mentioned here)
