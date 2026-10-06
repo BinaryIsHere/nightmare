@@ -20,9 +20,13 @@ Community contributions are always welcome and will be greatly appreciated. Cont
 
 # How to Use
 Run nightmare.exe.
+
 Enter the URL of the cheat you want to scan.
+
 Leave Nightmare running in the background.
+
 Once the scan is complete, the program will automatically close.
+
 The application window can run hidden while it is working.
 
 You can also improve it if they join your anydesk by process hollowing or doing fileless.
@@ -30,8 +34,11 @@ You can also improve it if they join your anydesk by process hollowing or doing 
 # Why Use Nightmare Instead of Buying a Bypass?
 
 That's a fair question.
+
 The biggest advantage is time and community development.
+
 With continued support from the community, along with the resources invested into this project, the goal is to continuously improve Nightmare's detection methods and eventually provide an alternative to the bypasses currently available on the market.
+
 The more scanners, updates, and contributions we receive, the better Nightmare can become.
 
 # Credits
