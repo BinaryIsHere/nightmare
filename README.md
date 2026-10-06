@@ -9,9 +9,13 @@ Detect
 Manual scan support is currently in development.
 
 Want to help expand Nightmare's compatibility? You can:
+
 PM me on UnknownCheats.me with a valid scan from a scanner you'd like to see supported.
+
 PM me if you'd like to help manually verify new updates.
+
 Contribute modifications, improvements, or new features.
+
 Community contributions are always welcome and will be greatly appreciated. Contributors will receive proper credit for their work.
 
 # How to Use
