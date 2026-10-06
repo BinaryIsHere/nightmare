@@ -4,8 +4,10 @@ Nightmare is a community-driven project designed to detect supported cheat scann
 # Current Support
 At the moment, Nightmare supports:
 Echo
+
 Detect
-Napse (Credits: 1900x)
+
+Napse (Credits: 1900x for the scan)
 
 Manual scan support is currently in development.
 
